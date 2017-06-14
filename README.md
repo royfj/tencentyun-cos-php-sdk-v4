@@ -1,3 +1,6 @@
+# Fork from https://github.com/tencentyun/cos-php-sdk-v4
+
+
 cos-php-sdk：php sdk for [腾讯云对象存储服务](https://www.qcloud.com/product/cos.html)
 ===================================================================================================
 
