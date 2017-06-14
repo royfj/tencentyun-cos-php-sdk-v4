@@ -1,0 +1,17 @@
+{
+    "name": "royfj/tencentyun-cos-php-sdk-v4",
+    "type": "library",
+    "description": "Fork from Tencentyun COS php sdk v4",
+    "version": "0.1.0",
+    "homepage": "https://www.qcloud.com/",
+    "license": "MIT",
+
+    "require": {
+        "php": ">=5.3"
+    },
+
+    "autoload": {
+        "files": ["include.php"]
+    }
+
+}
